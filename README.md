@@ -4,20 +4,6 @@
   
 ## Hi there
 
-
-<h1 align="center">📈 My Stats:</h1>
-  
-  <p align="center">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api?username=GalHillel&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalHillel&theme=slateorange&layout=compact" />
-</a>
-</p>
 ## :trophy: Stats
 <p align="center">
   <a href="[https://skillicons.dev](https://github.com/NikitaAnosov/github-readme-stats)">
