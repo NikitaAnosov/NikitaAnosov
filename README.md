@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaAnosov&Compact layout)](https://github.com/NikitaAnosov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaAnosov&layout=compact)](https://github.com/NikitaAnosov/github-readme-stats)
+
 
 <!--
 **NikitaAnosov/NikitaAnosov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
