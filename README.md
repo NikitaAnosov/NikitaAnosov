@@ -1,4 +1,3 @@
-![giphy](https://user-images.githubusercontent.com/93082022/226215010-b345434c-3f5a-480c-ad9f-0ab41426c545.gif)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaAnosov&layout=compact)](https://github.com/NikitaAnosov/github-readme-stats)
