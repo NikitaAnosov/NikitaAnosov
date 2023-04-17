@@ -8,8 +8,8 @@ I'm a Computer Science & Mathematics Student at Ariel University <img src="https
 
 ## <p align="center"> :trophy: Stats :trophy:
 <p align="center">
-  <a href="[https://skillicons.dev](https://github.com/NikitaAnosov/github-readme-stats)">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaAnosov&layout=compact" />
+  <a href="https://skillicons.dev](https://github.com/NikitaAnosov/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaAnosov&show_icons=true&theme=tokyonight" />
   </a>
 </p>
 
