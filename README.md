@@ -18,7 +18,7 @@ I'm a Computer Science & Mathematics Student at Ariel University <img src="https
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"
  title="Java" alt="Java" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
  title="Python" alt="Python" width="40" height="40"/> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" 
   title="C" alt="C" width="40" height="40"/>
