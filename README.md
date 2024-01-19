@@ -24,6 +24,8 @@ I'm a Computer Science & Mathematics Student at Ariel University <img src="https
   title="C" alt="C" width="40" height="40"/>
    <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" 
   title="C++" alt="C++" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" 
+  title="mySql++" alt="C++" width="40" height="40"/>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/93082022/226216895-89124b9d-9ab8-4100-aab1-0590332fef74.gif"
