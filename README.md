@@ -9,8 +9,6 @@ I'm a Computer Science & Mathematics Student at Ariel University <img src="https
 ## My Projects:
 * I built an app in Java using Android Studio and Firebase called PageFlix. The app is designed to make libraries more accessible and efficient. It allows libraries to manage their book inventory, track real-time book rentals, and identify which customer currently has a borrowed book.
   [Git link](https://github.com/pageFlix/PageFlix)
-* I’m developing a game in C# using the Unity engine as part of a collaborative project with students from the Occupational Therapy department. The game is a rehabilitative project designed to improve players’ concentration, memory, and reaction skills through dynamic tasks. Players must catch diamonds of various colors as they appear.
-  [Git link](https://github.com/UniversityGameProject-2024/Diamond-Quest)
 * I’m working on a course project to develop a 2D adventure and puzzle game using the Unity engine with C#. The game combines exploration and problem-solving elements to create an engaging and challenging experience for players.
   [Git link](https://github.com/UniversityGameProject-2024/Elementa)
 
